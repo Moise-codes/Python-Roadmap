@@ -15,3 +15,9 @@ third = [20,40,50]
 
 print(first is second)
 print(first is third)
+
+
+user = None
+
+if user is None:
+  print("User not found")
